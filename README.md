@@ -1,5 +1,5 @@
 **My third number repo**
-The story of apelapato:
+- The story of apelapato:
 
 Apelapato (also “Apela Pato”) is the alias of Henrique Simão from Brazil. 
 Instagram
@@ -31,6 +31,8 @@ Sportskeeda
 
 One article reports his Free Fire ID (as of 2021) as 62875162.
 [profile](https://github.com/milonhossain2025/Desert-Eagle)
+
+![Captain Jack Sparrow](https://upload.wikimedia.org/wikipedia/en/2/26/JohnnyDeppPirates.jpg)
 
 # movement jod
 ## Brazilian king
