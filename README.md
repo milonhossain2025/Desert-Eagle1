@@ -32,7 +32,7 @@ Sportskeeda
 One article reports his Free Fire ID (as of 2021) as 62875162.
 [profile](https://github.com/milonhossain2025/Desert-Eagle)
 
-![Captain Jack Sparrow](https://upload.wikimedia.org/wikipedia/en/2/26/JohnnyDeppPirates.jpg)
+![Captain Jack Sparrow](jack.jpeg)
 
 # movement jod
 ## Brazilian king
